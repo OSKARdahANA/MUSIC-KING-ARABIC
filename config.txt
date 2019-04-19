@@ -1,0 +1,6 @@
+owner=525060572597714986
+prefix=-
+game=King Arabic | -play
+stayinchannel=true
+songinstatus=false
+token=NTY4NzUyMjI5Njc5MzY2MTY0.XLmqDg.aENIQajVxgX68x8nb5RDuoRz5YA
